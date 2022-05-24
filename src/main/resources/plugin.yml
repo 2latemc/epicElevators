@@ -1,0 +1,9 @@
+name: EpicElevators
+version: '${project.version}'
+main: at.late.elevators.Main
+api-version: 1.18
+authors: [ _2late_ ]
+description: Elevators in Minecraft!
+commands:
+  elevators:
+    permission: elevators.admin
